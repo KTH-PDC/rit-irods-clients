@@ -2,7 +2,7 @@
 Client-applications and libraries for iRODS.
 
 ## Contents
-* `iping` --- iRODS client app for usage in Nagios monitoring.
+* `iping` --- iRODS client app for usage in Nagios monitoring. More info on [irods.org](https://irods.org/2016/09/monitoring-irods-resources-with-nagios/) and [Github](https://github.com/irods/contrib/tree/master/iping).
 * `...`
  
 ## Usage (compiling)
