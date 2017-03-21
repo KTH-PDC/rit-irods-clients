@@ -1,0 +1,8 @@
+Package: irods-iping
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: irods-runtime (>= 4.1.8)
+Maintainer: Research IT Maastricht University
+Description: iRODS iping command for Nagios monitoring
