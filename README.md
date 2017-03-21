@@ -18,7 +18,9 @@ cd ~/rit-irodsclients/iping/src
 make install
 
 cd ~/rit-irodsclients/iping/build
-./iping
+
+# execute as user 'irods'
+./iping                              
 ./iping -h icat.example.org -p 1247 
 ```
 
